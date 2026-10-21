@@ -17,7 +17,7 @@ A mobile-first web app for following a structured training program and tracking 
 
 A few years ago I bought a 10-week program from a well-known coach. It arrived as a handful of notepad files and back-and-forth Messenger messages, with no way to log lifts or see progress. Tracking everything was up to me, along with keeping the coach updated through weekly check-ins. I ended up building a spreadsheet by hand, writing out every exercise against dates and week numbers, and editing cells to enter my lifts at the gym.
 
-This app is what I wish had come with that program: the program itself, the logging and the progress in one place on my phone. The longer-term goal is for it to be a tool personal trainers can use to deliver programs to clients and overview their progress. Added features would include social group/friends interactivity, for gym-goers that are not on any paid coaching service that lift as a hobby to see how all their friends are tracking alongside them.
+This app is what I wish had come with that program: the program itself, the logging and the progress in one place on my phone. The longer-term goal is for it to be a tool personal trainers can use to deliver programs to clients and overview their progress, whilst making the onboarding process as easy as possible. Planned social features would let hobby lifters who aren’t on a paid coaching service see how their friends are tracking alongside them.
 
 ## Features
 
